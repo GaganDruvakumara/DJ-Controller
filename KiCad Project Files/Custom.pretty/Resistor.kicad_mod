@@ -1,0 +1,151 @@
+(footprint "Resistor"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "72d9aa9e-1487-4703-9d22-dd84ac441a01")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Resistor"
+		(at 0.4 -2.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3eff096e-7600-47aa-b401-f5e56c421c2f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "669bed88-e31a-47a3-8258-aedd0280e82e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56419002-e035-4dbe-ba47-4b4d60677dad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.15 0)
+		(end -3.25 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b8ecc13f-ea02-4581-8231-1cccaf3e0a7b")
+	)
+	(fp_line
+		(start 3.15 0)
+		(end 3.25 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e2c2ab5f-1b9b-4fbb-a687-a9e435fdb32f")
+	)
+	(fp_rect
+		(start -3.15 -1.25)
+		(end 3.15 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "f53dedb2-ce1f-4664-84e3-b90da16d7ffd")
+	)
+	(fp_rect
+		(start -5.75 -1.8)
+		(end 5.75 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "b502bbbc-6f29-4a21-882a-229875eeb374")
+	)
+	(fp_rect
+		(start -5.5 -1.6)
+		(end 5.5 1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "05955932-3347-4ed4-af5f-d6bbf8db0cc5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.2 2.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "748ff866-4d44-40c4-8748-9084832ea46d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -4.3 0)
+		(size 2 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3d3b5bf5-d80a-4fdb-8b78-82e2d3b41d05")
+	)
+	(pad "2" thru_hole circle
+		(at 4.3 0)
+		(size 2 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cc84eb5e-3fb1-4747-bbf8-d0616e59e49c")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/Gagan/Downloads/0.25watt.STEP"
+		(offset
+			(xyz 0 0 1.25)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

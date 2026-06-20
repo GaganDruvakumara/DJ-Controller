@@ -1,0 +1,154 @@
+(footprint "E-9818 Audio Transformer"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9d8dec12-84f5-4f4b-8b7b-b8b1f6e7def0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "E-9818 Audio Transformer"
+		(at 0 1.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9074794f-68ba-46fd-87b6-b86d1618b12b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7503ac77-8d91-4186-8bb4-076f8acd8ee2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cf9cb42c-ce36-4f83-9106-759292be226c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -11 -11)
+		(end 11 11)
+		(radius 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6c0e22c1-03bc-4276-bda6-f34e3fca1b6f")
+	)
+	(fp_rect
+		(start -12 -12)
+		(end 12 12)
+		(radius 4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "9f368194-7916-42c6-8c4e-56632d81d4e0")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "49f1a476-0c7c-4832-8a21-cae4da7bc00c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -5 -6.25)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "eb6b20a6-eb63-4619-9e8b-87f8ec859461")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -6.25)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3fb5a916-759d-4c9e-86aa-25a759b35cb1")
+	)
+	(pad "3" thru_hole circle
+		(at 5 -6.25)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8ee7f940-779b-4bb4-bc5f-e51d27766158")
+	)
+	(pad "4" thru_hole circle
+		(at 0 6.25)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "63fd5bba-a250-4b48-b5b4-43811218885f")
+	)
+	(pad "5" thru_hole circle
+		(at 5 6.25)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ce323b78-b80d-4a04-9955-ae4301c7df36")
+	)
+	(pad "6" thru_hole circle
+		(at -5 6.25)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "80a743cc-f0b0-440b-a222-ab214a234726")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/Gagan/Downloads/E-9818 Audio Transformer.step"
+		(offset
+			(xyz 0 0 0.25)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

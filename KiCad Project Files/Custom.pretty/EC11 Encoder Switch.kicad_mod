@@ -1,0 +1,158 @@
+(footprint "EC11 Encoder Switch"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d3665df7-328b-406d-bc1b-bcab9261d8b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "EC11 Encoder Switch"
+		(at 0 10.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "abb03d8a-1f9f-425c-b9fe-48d300b0881c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e265020-16aa-47b5-9af7-7b31ef8705db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb5c8de9-34a6-4c0f-aaba-05e43739ea3d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -6 -6)
+		(end 6 6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "22e3c64a-2999-4af8-937e-5a1081a96887")
+	)
+	(fp_rect
+		(start -7.5 -8.75)
+		(end 7.5 9.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "8f2c4524-65b3-46e4-8943-1cb70b1f253a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 12 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "fbd76883-a249-48c0-9fb4-e4ffe7e6e4af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole oval
+		(at -5.5 0)
+		(size 1.4 2.5)
+		(drill oval 1.5 2.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "126cd891-8e59-4fe3-82eb-f33d26286231")
+	)
+	(pad "" np_thru_hole oval
+		(at 5.5 0)
+		(size 1.4 2.5)
+		(drill oval 1.5 2.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "387161eb-61e9-439c-9370-485f4afc34e9")
+	)
+	(pad "A" thru_hole circle
+		(at -2.5 7.5)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "31f9dc3e-925a-4e88-beca-5c808b57dbe9")
+	)
+	(pad "B" thru_hole circle
+		(at 2.5 7.5)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "223333f4-59f1-4a00-ad30-88d419ba9d15")
+	)
+	(pad "C" thru_hole circle
+		(at 0 7.5)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2a7b3f37-ba08-4754-9685-10c137c6ff7b")
+	)
+	(pad "S1" thru_hole circle
+		(at -2.5 -7)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e17486a2-1d44-441e-a544-0600a31106fd")
+	)
+	(pad "S2" thru_hole circle
+		(at 2.5 -7)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9fa7014b-032b-4efe-ae2b-4fc7d50854e4")
+	)
+	(embedded_fonts no)
+	(model "${DOWNLOADS}/旋转编码器EC11.STEP"
+		(offset
+			(xyz 0 0 0.25)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)

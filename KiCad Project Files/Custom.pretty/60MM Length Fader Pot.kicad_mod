@@ -1,0 +1,156 @@
+(footprint "60MM Length Fader Pot"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0.1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ec1d6d21-cf02-472b-a02e-5a966bb81e07")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "60MM Length Fader Pot"
+		(at 0 1.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "fdd84c8c-2fa4-4a3d-a476-354cbf08c265")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "06d8abda-4074-4f86-b83a-898422de80df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c12d553-e5d5-468b-acf7-423ddb80a7d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -30 -4.5)
+		(end 30 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "0081174b-b3b5-4682-83b1-e832ea6893ba")
+	)
+	(fp_rect
+		(start -31 -5.5)
+		(end 31 5.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "218bcaa5-3351-4824-8724-d23f3e28e4ca")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 3.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b73ba102-072a-44b1-bc79-9e72cfb572dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole oval
+		(at -25.1 4.2)
+		(size 1.7 0.5)
+		(drill oval 1.8 0.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "0ec37927-d7e2-45ad-b019-c426eae7643c")
+	)
+	(pad "" np_thru_hole oval
+		(at -23.9 -4.2)
+		(size 1.7 0.5)
+		(drill oval 1.8 0.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "c3b9f4f8-fa9e-47f2-86ff-742a0822ce3b")
+	)
+	(pad "" np_thru_hole oval
+		(at 23.9 -4.2)
+		(size 1.7 0.5)
+		(drill oval 1.8 0.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "88544da8-b63a-401d-8316-f2da549b4add")
+	)
+	(pad "" np_thru_hole oval
+		(at 25.1 4.2)
+		(size 1.7 0.5)
+		(drill oval 1.8 0.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "becb37df-549d-46a1-94b8-978e821c3754")
+	)
+	(pad "1" thru_hole circle
+		(at -29.25 -1.75)
+		(size 2.54 2.54)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4579af0f-7b7a-4621-a1d5-c2265470ba6a")
+	)
+	(pad "2" thru_hole circle
+		(at -29.25 1.75)
+		(size 2.54 2.54)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "299cfa82-3a65-4142-a02a-b689b31a5f72")
+	)
+	(pad "3" thru_hole circle
+		(at 29.25 -1.75)
+		(size 2.54 2.54)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d4483c2e-b77a-43bb-929c-cb1af89b10b6")
+	)
+	(embedded_fonts no)
+	(model "${DOWNLOADS}/45mmSlidePotentiometer.step"
+		(offset
+			(xyz 0 0 0.25)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+)
