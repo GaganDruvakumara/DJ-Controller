@@ -45,7 +45,12 @@ Assembly done with M3x5x5 threaded inserts & M3 screws
 <img width="1979" height="1005" alt="Screenshot 2026-06-20 180435" src="https://github.com/user-attachments/assets/907cff07-b0c1-4d6e-8d20-a15a9205020b" />
 
 # Firmware
+
 WIP
+
+### Libraries
+* Raspberry Pi Pico SDK C/C++
+* Raspberry Pi Pico VS Code Extension
 
 # Credits
 * [Onshape](https://www.onshape.com/en/)
