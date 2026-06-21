@@ -23,8 +23,10 @@
 
 ### PCB Front Layer
 <img width="1924" height="1183" alt="image" src="https://github.com/user-attachments/assets/24da7260-8d2d-4f07-9fdc-adc682d3821a" />
+
 ### PCB Back Layer
 <img width="1933" height="1193" alt="image" src="https://github.com/user-attachments/assets/8cbde8bb-6687-4730-a68b-903450adf983" />
+
 ### PCB 3D View
 Component models from GrabCad
 <img width="1858" height="1065" alt="image" src="https://github.com/user-attachments/assets/229a63f8-79de-44b6-982f-ff740e084a8f" />
@@ -38,8 +40,6 @@ CAD models designed in [Onshape](https://cad.onshape.com/documents/7791953f15b94
 Assembly done with M3x5x5 threaded inserts & M3 screws
 <img width="1635" height="1152" alt="Screenshot 2026-06-20 180953" src="https://github.com/user-attachments/assets/f53473d2-580c-41c4-88ab-67101a6b5464" />
 <img width="1979" height="1005" alt="Screenshot 2026-06-20 180435" src="https://github.com/user-attachments/assets/907cff07-b0c1-4d6e-8d20-a15a9205020b" />
-
-###
 
 # Firmware
 WIP
