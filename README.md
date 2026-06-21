@@ -17,5 +17,24 @@ This is a fully open-source 4-channel DIY DJ Controller</body1>
 
 # PCB
 7 2-layer PCBs (9 total including duplicates) designed in KiCad
-<h2>PCB Schematic</h2>
+### PCB Schematic
 <img width="4405" height="6250" alt="PCB Schem" src="https://github.com/user-attachments/assets/d8b0280b-5260-4188-a191-f427778683ce" />
+
+### PCB Front Layer
+<img width="1924" height="1183" alt="image" src="https://github.com/user-attachments/assets/24da7260-8d2d-4f07-9fdc-adc682d3821a" />
+### PCB Back Layer
+<img width="1933" height="1193" alt="image" src="https://github.com/user-attachments/assets/8cbde8bb-6687-4730-a68b-903450adf983" />
+### PCB 3D View
+<img width="1858" height="1065" alt="image" src="https://github.com/user-attachments/assets/229a63f8-79de-44b6-982f-ff740e084a8f" />
+<img width="1918" height="1031" alt="image" src="https://github.com/user-attachments/assets/93ebd054-454c-44da-93b6-e1a59ede00e3" />
+
+## PCB Wiring Schematic
+<img width="1254" height="946" alt="Screenshot 2026-06-20 173347" src="https://github.com/user-attachments/assets/e8e7bcca-c94e-482a-91c6-19a94c8c8aa7" />
+
+# CAD Assembly
+CAD models designed in [Onshape](https://cad.onshape.com/documents/7791953f15b9474113af6284/w/087eac69f09fbec4411ed0d8/e/f1a33f0f3682f52a7b10a5d9?renderMode=0&uiState=6a372b9190a847a714621490).
+<img width="1635" height="1152" alt="Screenshot 2026-06-20 180953" src="https://github.com/user-attachments/assets/f53473d2-580c-41c4-88ab-67101a6b5464" />
+<img width="1979" height="1005" alt="Screenshot 2026-06-20 180435" src="https://github.com/user-attachments/assets/907cff07-b0c1-4d6e-8d20-a15a9205020b" />
+
+#Firmware
+WIP
