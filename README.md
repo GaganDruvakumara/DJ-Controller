@@ -14,3 +14,8 @@ This is a fully open-source 4-channel DIY DJ Controller</body1>
 * 24-bit ADC for inputs
 * 16 performance pad with mode selector
 * 2 rotary encoders for menu navigation
+
+# PCB
+7 2-layer PCBs (9 total including duplicates) designed in KiCad
+<h2>PCB Schematic</h2>
+<img width="4405" height="6250" alt="PCB Schem" src="https://github.com/user-attachments/assets/d8b0280b-5260-4188-a191-f427778683ce" />
