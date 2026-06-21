@@ -1,0 +1,37 @@
+Part	Min Amt.	Approx. Cost	Link
+			
+Electronic Components			
+			
+Raspberry Pi Pico	1		
+MCP23017 I2C GPIO Expander	3		
+CD74HC4067M Multiplexer	2		
+PCM5012 Module	2		
+PCM1808 Module	1		
+EC11 Rotary Encoder Switch	2		
+4.7k THT Resistors	38		
+10k Rotary Potentiometers	24		
+10K Slide Potentiometers	7		
+600:600 Ohm Audio Transformers	2		
+100 nF Ceramic Capacitors	6		
+100 uF Electrolytic Capacitors	2		
+12mm Tacticle Switches	20		
+6mm Tacticle Switches	4		
+SPDT Slide Switch	2		
+WS2812B Individual RGB LEDs	20		
+MT6701 Magnetic Rotary Encoder			
+			
+IO Ports			
+			
+XLR Male Panel Mount	2		
+6.35mm Jack Female Panel	2		
+Neutrik Combo Jack Panel	2		
+3.5mm Jack Female Panel	2		
+			
+Mechanical Components			
+			
+M3x5x5 Threaded inserts	32		
+M3x6 Pan Head Screws	18		
+M3x15 Pan Head Screws	4		
+M3x6 Countersunk Screws	10		
+6x2mm Radial Magnet	2		
+608ZZ Bearing	2		
