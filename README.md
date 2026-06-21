@@ -1,7 +1,7 @@
 # DIY DJ CONTROLLER
 <body1 align="center">
   <br>
-<img width="707" height="1005" alt="image" src="https://github.com/user-attachments/assets/93741060-953a-4595-be0e-787796654f1f" />
+<img width="707" height="1005" alt="image" src="https://github.com/GaganDruvakumara/DJ-Controller/blob/main/Zine.png" />
   <br>
 This is a fully open-source 4-channel DIY DJ Controller</body1>
 
