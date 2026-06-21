@@ -3,7 +3,8 @@
   <br>
 <img width="707" height="1005" alt="image" src="https://github.com/GaganDruvakumara/DJ-Controller/blob/main/Zine.png" />
   <br>
-  I've been wanting to get into the hobby, but the barrier to entry was kind of expensive. I looked online, but I couldn't find any existing open source projects that impressed me. Most of them were small and finicky, like toys, and they looked like they would be hard to use for actual DJing. There was a lack of a good open-source alternative, and that's what inspired me to create this project. This is a fully open-source 4-channel DIY DJ Controller
+  I’ve wanted to get into this hobby for a while, but the cost of entry was a major barrier. I looked through existing projects online, but I couldn’t find any open-source DJ controllers that really stood out. Many were small, limited, or designed more like experimental gadgets rather than something practical for real DJ use. There seemed to be a gap between expensive commercial controllers and accessible open-source alternatives, which inspired me to create this project.
+  
 </body1>
 
 # Key Features
