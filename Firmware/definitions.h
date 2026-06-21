@@ -25,3 +25,6 @@
 
 #define MUX_A 26
 #define MUX_B 27
+
+#define COM1 0
+#define COM2 1
