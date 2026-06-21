@@ -3,7 +3,10 @@
   <br>
 <img width="707" height="1005" alt="image" src="https://github.com/GaganDruvakumara/DJ-Controller/blob/main/Zine.png" />
   <br>
-This is a fully open-source 4-channel DIY DJ Controller</body1>
+This is a fully open-source 4-channel DIY DJ Controller
+<br>
+  I've been wanting to get into the hobby, but the barrier to entry was kind of expensive. I looked online, but I couldn't find any existing open source projects that impressed me. Most of them were small and finicky, like toys, and it looked like it would be hard to use for actual DJing. There was a lack of a good open-source alternative, and that's what inspired me to create this project.
+</body1>
 
 # Key Features
 * 4 Channel Deck
@@ -34,8 +37,11 @@ Component models from GrabCad
 
 # CAD Assembly
 CAD models designed in [Onshape](https://cad.onshape.com/documents/7791953f15b9474113af6284/w/087eac69f09fbec4411ed0d8/e/f1a33f0f3682f52a7b10a5d9?renderMode=0&uiState=6a372b9190a847a714621490).
+Assembly done with M3x5x5 threaded inserts & M3 screws
 <img width="1635" height="1152" alt="Screenshot 2026-06-20 180953" src="https://github.com/user-attachments/assets/f53473d2-580c-41c4-88ab-67101a6b5464" />
 <img width="1979" height="1005" alt="Screenshot 2026-06-20 180435" src="https://github.com/user-attachments/assets/907cff07-b0c1-4d6e-8d20-a15a9205020b" />
+
+###
 
 # Firmware
 WIP
