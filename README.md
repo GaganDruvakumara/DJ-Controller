@@ -9,6 +9,7 @@
   <i>This project is a fully open-source, 4-channel DIY DJ controller designed to be a functional and customizable alternative for anyone interested in building their own hardware.</i>
 </body1>
 
+
 # Key Features
 * 4 Channel Deck
 * XLR & 6.35MM Jack L&R master out + 3.5mm Jack L+R master out
@@ -18,6 +19,7 @@
 * 24-bit ADC for inputs
 * 16 performance pad with mode selector
 * 2 rotary encoders for menu navigation
+
 
 # PCB
 7x 2-layer PCBs (9 total including duplicates) designed in KiCad
@@ -38,11 +40,13 @@ Component models from GrabCad
 ## PCB Wiring Schematic
 <img width="1254" height="946" alt="Screenshot 2026-06-20 173347" src="https://github.com/user-attachments/assets/e8e7bcca-c94e-482a-91c6-19a94c8c8aa7" />
 
+
 # CAD Assembly
 CAD models designed in [Onshape](https://cad.onshape.com/documents/7791953f15b9474113af6284/w/087eac69f09fbec4411ed0d8/e/f1a33f0f3682f52a7b10a5d9?renderMode=0&uiState=6a372b9190a847a714621490).
 Assembly done with M3x5x5 threaded inserts & M3 screws
 <img width="1635" height="1152" alt="Screenshot 2026-06-20 180953" src="https://github.com/user-attachments/assets/f53473d2-580c-41c4-88ab-67101a6b5464" />
 <img width="1979" height="1005" alt="Screenshot 2026-06-20 180435" src="https://github.com/user-attachments/assets/907cff07-b0c1-4d6e-8d20-a15a9205020b" />
+
 
 # Bill of Materials
 
@@ -90,13 +94,16 @@ Assembly done with M3x5x5 threaded inserts & M3 screws
 |                                           |        |               |            |                                                    |
 |**Total Estimated Cost**                       |        |               |$110.50     |                                                    |
 
+
 # Firmware
 
 WIP
 
+
 ### Libraries
 * Raspberry Pi Pico SDK C/C++
 * Raspberry Pi Pico VS Code Extension
+
 
 # Credits
 * [Onshape](https://www.onshape.com/en/)
