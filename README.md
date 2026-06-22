@@ -50,7 +50,7 @@ Assembly done with M3x5x5 threaded inserts & M3 screws
 |-------------------------------------------|--------|---------------|------------|----------------------------------------------------|
 |                                           |        |               |            |                                                    |
 |Electronic Components                      |        |               |            |                                                    |
-|                                           |        |               |            |                                                    |
+|-------------------------------------------|--------|---------------|------------|----------------------------------------------------|
 |Raspberry Pi Pico                          |1       |$3.00          |$3.00       |https://www.aliexpress.us/item/3256805941727857.html|
 |MCP23017 I2C GPIO Expander                 |3       |$1.50          |$4.50       |https://www.aliexpress.us/item/3256809349179807.html|
 |CD74HC4067M Multiplexer                    |2       |$4.00          |$4.00       |https://www.aliexpress.us/item/3256810617508863.html|
@@ -70,14 +70,14 @@ Assembly done with M3x5x5 threaded inserts & M3 screws
 |MT6701 Magnetic Rotary Encoder             |2       |$4.00          |$4.00       |https://www.aliexpress.us/item/3256810566166924.html|
 |                                           |        |               |            |                                                    |
 |IO Ports                                   |        |               |            |                                                    |
-|                                           |        |               |            |                                                    |
+|-------------------------------------------|--------|---------------|------------|----------------------------------------------------|
 |XLR Male Panel Mount                       |2       |$1.00          |$2.00       |https://www.aliexpress.us/item/3256804030639653.html|
 |6.35mm Jack Female Panel                   |2       |$2.00          |$4.00       |https://www.aliexpress.us/item/3256810292264986.html|
 |Neutrik Combo Jack Panel                   |2       |$2.00          |$4.00       |https://www.aliexpress.us/item/3256801144687168.html|
 |3.5mm Jack Female Panel                    |2       |$3.00          |$3.00       |https://www.aliexpress.us/item/3256804353386767.html|
 |                                           |        |               |            |                                                    |
 |Mechanical Components                      |        |               |            |                                                    |
-|                                           |        |               |            |                                                    |
+|-------------------------------------------|--------|---------------|------------|----------------------------------------------------|
 |M3x5x5 Threaded inserts                    |32      |$4.00          |$4.00       |https://www.aliexpress.us/item/3256805892791659.html|
 |M3x6 Pan Head Screws                       |18      |$2.00          |$2.00       |https://www.aliexpress.us/item/3256802178253461.html|
 |M3x15(or 14) Pan Head Screws               |4       |$3.00          |$3.00       |https://www.aliexpress.us/item/3256802178253461.html|
