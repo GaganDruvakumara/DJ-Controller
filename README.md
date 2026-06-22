@@ -44,6 +44,49 @@ Assembly done with M3x5x5 threaded inserts & M3 screws
 <img width="1635" height="1152" alt="Screenshot 2026-06-20 180953" src="https://github.com/user-attachments/assets/f53473d2-580c-41c4-88ab-67101a6b5464" />
 <img width="1979" height="1005" alt="Screenshot 2026-06-20 180435" src="https://github.com/user-attachments/assets/907cff07-b0c1-4d6e-8d20-a15a9205020b" />
 
+# Bill of Materials
+
+|Part                                       |Min Qty.|Price Per Order|Approx. Cost|Link                                                |
+|-------------------------------------------|--------|---------------|------------|----------------------------------------------------|
+|                                           |        |               |            |                                                    |
+|Electronic Components                      |        |               |            |                                                    |
+|                                           |        |               |            |                                                    |
+|Raspberry Pi Pico                          |1       |$3.00          |$3.00       |https://www.aliexpress.us/item/3256805941727857.html|
+|MCP23017 I2C GPIO Expander                 |3       |$1.50          |$4.50       |https://www.aliexpress.us/item/3256809349179807.html|
+|CD74HC4067M Multiplexer                    |2       |$4.00          |$4.00       |https://www.aliexpress.us/item/3256810617508863.html|
+|PCM5012 Module                             |2       |$2.50          |$5.00       |https://www.aliexpress.us/item/3256806137563609.html|
+|PCM1808 Module                             |1       |$2.00          |$2.00       |https://www.aliexpress.us/item/3256811975040160.html|
+|EC11 Rotary Encoder Switch                 |2       |$2.50          |$5.00       |https://www.aliexpress.us/item/3256804936028561.html|
+|4.7k THT Resistors                         |38      |$1.00          |$1.00       |https://www.aliexpress.us/item/3256802303553096.html|
+|10k DOIT Rotary Potentiometers             |24      |$2.00          |$10.00      |https://www.aliexpress.us/item/3256809058182220.html|
+|10K 60mm Slide Potentiometers (45mm travel)|7       |$2.00          |$14.00      |https://www.aliexpress.us/item/3256810149786178.html|
+|600:600 Ohm Audio Transformers             |2       |$7.00          |$14.00      |https://www.aliexpress.us/item/3256811824890339.html|
+|100 nF Ceramic Capacitors                  |6       |$1.00          |$1.00       |https://www.aliexpress.us/item/3256802104127109.html|
+|100 uF Electrolytic Capacitors             |2       |$1.00          |$1.00       |https://www.aliexpress.us/item/3256807284223642.html|
+|12mm Tacticle Switches                     |20      |$4.00          |$4.00       |https://www.aliexpress.us/item/2251832641145267.html|
+|6mm Tacticle Switches                      |4       |$1.00          |$1.00       |https://www.aliexpress.us/item/2255800493650621.html|
+|SPDT Slide Switch                          |2       |$2.00          |$2.00       |https://www.aliexpress.us/item/3256801114920515.html|
+|WS2812B Individual RGB LEDs                |20      |$1.50          |$3.00       |https://www.aliexpress.us/item/2255801159561004.html|
+|MT6701 Magnetic Rotary Encoder             |2       |$4.00          |$4.00       |https://www.aliexpress.us/item/3256810566166924.html|
+|                                           |        |               |            |                                                    |
+|IO Ports                                   |        |               |            |                                                    |
+|                                           |        |               |            |                                                    |
+|XLR Male Panel Mount                       |2       |$1.00          |$2.00       |https://www.aliexpress.us/item/3256804030639653.html|
+|6.35mm Jack Female Panel                   |2       |$2.00          |$4.00       |https://www.aliexpress.us/item/3256810292264986.html|
+|Neutrik Combo Jack Panel                   |2       |$2.00          |$4.00       |https://www.aliexpress.us/item/3256801144687168.html|
+|3.5mm Jack Female Panel                    |2       |$3.00          |$3.00       |https://www.aliexpress.us/item/3256804353386767.html|
+|                                           |        |               |            |                                                    |
+|Mechanical Components                      |        |               |            |                                                    |
+|                                           |        |               |            |                                                    |
+|M3x5x5 Threaded inserts                    |32      |$4.00          |$4.00       |https://www.aliexpress.us/item/3256805892791659.html|
+|M3x6 Pan Head Screws                       |18      |$2.00          |$2.00       |https://www.aliexpress.us/item/3256802178253461.html|
+|M3x15(or 14) Pan Head Screws               |4       |$3.00          |$3.00       |https://www.aliexpress.us/item/3256802178253461.html|
+|M3x6 Countersunk Screws                    |10      |$2.00          |$2.00       |https://www.aliexpress.us/item/3256808642166413.html|
+|6x2mm Radial Magnet                        |2       |$6.00          |$6.00       |https://www.aliexpress.us/item/3256810512258917.html|
+|608ZZ Bearing                              |2       |$2.00          |$2.00       |https://www.aliexpress.us/item/3256807356386819.html|
+|                                           |        |               |            |                                                    |
+|Total Estimated Cost                       |        |               |$110.50     |                                                    |
+
 # Firmware
 
 WIP
