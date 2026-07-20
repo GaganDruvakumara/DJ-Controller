@@ -94,7 +94,7 @@ Assembly done with M3x5x5 threaded inserts & M3 screws. Countersunk screws are u
 |                                           |        |               |            |                                                    |
 |**Total Estimated Cost**                       |        |               |$110.50     |                                                    |
 
-JLC PCB Order:
+### JLC PCB Order:
 <img width="1164" height="1146" alt="image" src="https://github.com/user-attachments/assets/09524590-d134-458a-a57b-dc1d3fcf087e" />
 
 
